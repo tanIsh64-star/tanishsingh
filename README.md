@@ -68,7 +68,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/tanish-singh-bb1826336/">LinkedIn</a> |
-  <a href="https://leetcode.com/u/tanish-64/">LeetCode</a>
+  <a href="https://leetcode.com/u/tanish-64/">LeetCode</a> |
+  <a href="mailto:tanishsingh6005@gmail.com">Gmail</a>
 </p>
 
 ---
