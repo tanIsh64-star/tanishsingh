@@ -5,7 +5,7 @@
 🚀 Currently learning Python & Competitive Programming  
 
 ## 🔥 Skills
-- Python, C++
+- Python, C
 - Data Structures & Algorithms
 - Git & GitHub
 
